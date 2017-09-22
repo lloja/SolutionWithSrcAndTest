@@ -1,0 +1,8 @@
+/projects/SolutionWithSrcAndTest/MyProject/bin/Debug/netstandard2.0/MyProject.deps.json
+/projects/SolutionWithSrcAndTest/MyProject/bin/Debug/netstandard2.0/MyProject.dll
+/projects/SolutionWithSrcAndTest/MyProject/bin/Debug/netstandard2.0/MyProject.pdb
+/projects/SolutionWithSrcAndTest/MyProject/obj/Debug/netstandard2.0/MyProject.csproj.CoreCompileInputs.cache
+/projects/SolutionWithSrcAndTest/MyProject/obj/Debug/netstandard2.0/MyProject.AssemblyInfoInputs.cache
+/projects/SolutionWithSrcAndTest/MyProject/obj/Debug/netstandard2.0/MyProject.AssemblyInfo.cs
+/projects/SolutionWithSrcAndTest/MyProject/obj/Debug/netstandard2.0/MyProject.dll
+/projects/SolutionWithSrcAndTest/MyProject/obj/Debug/netstandard2.0/MyProject.pdb
